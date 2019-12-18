@@ -1,4 +1,5 @@
-# DOS Project 4.1
+# Implementation of Twitter Engine without UI
+
 
 Gopichand Kommineni         UFID 0305-5523
 Hemanth Kumar Malyala       UFID 6348-5914
